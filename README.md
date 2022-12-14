@@ -3,8 +3,6 @@ Data Science project for Sem-5
 
 Prediction of levels of obesity by using machine learning classification models.
 
-Prediction of levels of obesity by using machine learning classification models.
-
 Data collected from [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Estimation+of+obesity+levels+based+on+eating+habits+and+physical+condition+). Official publication of the research that provides data can be accessed from [here](https://www.sciencedirect.com/science/article/pii/S2352340919306985?via%3Dihub).
 
 ## Data Set Information:
